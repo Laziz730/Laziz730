@@ -1,0 +1,32 @@
+name: Auto Dev Pulse & Streak Keeper
+
+on:
+  schedule:
+    # Har 15-20 daqiqada avtomatik ravishda ishga tushadi
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Record Activity
+        run: |
+          mkdir -p .github
+          echo "### 🔥 Automated Dev Pulse" > .github/PULSE.md
+          echo "- **Last Active Timestamp:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> .github/PULSE.md
+          echo "- **Status:** System Online & Coding ⚡" >> .github/PULSE.md
+
+      - name: Commit & Push Activity
+        run: |
+          git config --global user.name "Abdulaziz Abduahadov"
+          git config --global user.email "Laziz730@users.noreply.github.com"
+          git add .github/PULSE.md
+          git diff --staged --quiet || git commit -m "chore(pulse): automated dev heartbeat [skip ci]"
+          git push
