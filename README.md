@@ -2,10 +2,17 @@
 <h3 align="center">11 yoshli Full-Stack & Java Dasturchi | Vibe Coder | Samarqand, Oʻzbekiston 🇺🇿</h3>
 
 <p align="center">
-  <a href="https://t.me/Laziz_Abduahadov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://t.me/abdulazizabduahadov"><img src="https://img.shields.io/badge/Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" /></a>
+  <a href="https://abduahadov.wwwi.uz/" target="_blank"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-abduahadov.wwwi.uz-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" /></a>
+  <a href="https://t.me/Laziz_Abduahadov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/abdulazizabduahadov" target="_blank"><img src="https://img.shields.io/badge/Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" /></a>
   <a href="mailto:abdulazizdev69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+### 🌐 Jonli Portfolio (Interactive 3D Portfolio)
+Mening eng soʻnggi interaktiv 3D WebGL, Three.js va loyihalarim bilan tanishish uchun portfoliomga kiring:  
+👉 **[abduahadov.wwwi.uz](https://abduahadov.wwwi.uz/)** *(Fluid 3D, Interaktiv Timeline va Loyihalar namoyishi)*
 
 ---
 
