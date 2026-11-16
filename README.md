@@ -9,11 +9,14 @@
     <a href="https://t.me/Laziz_Abduahadov" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-@Laziz__Abduahadov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://t.me/abdulazizabduahadov" target="_blank">
-      <img src="https://img.shields.io/badge/Channel-@abdulazizabduahadov-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" />
+    <a href="https://t.me/fulldasturchi" target="_blank">
+      <img src="https://img.shields.io/badge/Dev_TG-@fulldasturchi-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Full Dasturchi" />
     </a>
-    <a href="mailto:abdulazizdev69@gmail.com">
-      <img src="https://img.shields.io/badge/Email-abdulazizdev69@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://t.me/devuzbe" target="_blank">
+      <img src="https://img.shields.io/badge/TG-@devuzbe-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Dev UZ" />
+    </a>
+    <a href="https://t.me/abdulazizabduahadov" target="_blank">
+      <img src="https://img.shields.io/badge/Channel-@abdulazizabduahadov-179cde?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel" />
     </a>
   </p>
 
@@ -131,17 +134,28 @@ When building software, you will always find me listening to high-energy Phonk a
 
 ### 📬 Connect With Me
 
-<p align="center">
-  <a href="https://t.me/Laziz_Abduahadov" target="_blank">
-    <img src="https://img.shields.io/badge/Direct_Message-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="DM Telegram" />
-  </a>
-  <a href="https://t.me/abdulazizabduahadov" target="_blank">
-    <img src="https://img.shields.io/badge/Community-Telegram_Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-  </a>
-  <a href="mailto:abdulazizdev69@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💬 Telegram Accounts & Channel</h4>
+      <ul>
+        <li><b>Personal:</b> <a href="https://t.me/Laziz_Abduahadov" target="_blank">@Laziz_Abduahadov</a></li>
+        <li><b>Developer Profile:</b> <a href="https://t.me/fulldasturchi" target="_blank">@fulldasturchi</a></li>
+        <li><b>Dev / Tech:</b> <a href="https://t.me/devuzbe" target="_blank">@devuzbe</a></li>
+        <li><b>Official Channel:</b> <a href="https://t.me/abdulazizabduahadov" target="_blank">@abdulazizabduahadov</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✉️ Email Addresses</h4>
+      <ul>
+        <li><b>Primary:</b> <a href="mailto:abdulazizdev69@gmail.com">abdulazizdev69@gmail.com</a></li>
+        <li><b>Dev Mail:</b> <a href="mailto:abdulazizabduahadov702@gmail.com">abdulazizabduahadov702@gmail.com</a></li>
+        <li><b>Alt Mail:</b> <a href="mailto:abduahadov702@gmail.com">abduahadov702@gmail.com</a></li>
+        <li><b>Support:</b> <a href="mailto:sevaraximmatova702@gmail.com">sevaraximmatova702@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%" alt="Footer" />
