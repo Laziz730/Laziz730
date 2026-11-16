@@ -119,7 +119,7 @@ vibe: Vibe Coding with Phonk & Brazilian Funk on repeat 🎧
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laziz730&theme=radical&hide_border=true&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&dates=94a3b8&background=0d1117" width="95%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Laziz730&theme=radical&hide_border=true&border_radius=8&disable_animations=true" width="95%" alt="Streak Stats" />
 </div>
 
 ---
